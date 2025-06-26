@@ -4,6 +4,7 @@
 
 ### - **Data preparation**
   > This includes the following files in that order:
+>  - Dataset https://www.kaggle.com/datasets/kamaruladha/mental-disorders-identification-reddit-nlp
 >   - data_preprocessing.py
 >   - one_hot_labels.py
 >   - train_fasttext.py
@@ -20,7 +21,6 @@
 
 ### - **Demostration**
   > The purpose of this is to show a simple way to use the model created for classifiying the mental disorders:
->  - Dataset https://www.kaggle.com/datasets/kamaruladha/mental-disorders-identification-reddit-nlp
 >  - main_test.py
 >  - application.py
 
