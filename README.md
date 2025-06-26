@@ -26,4 +26,4 @@ Below is how the project was approached:
 >  - main_test.py
 >  - application.py
 
-### Screenshots
+## Screenshots
