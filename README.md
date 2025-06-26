@@ -14,6 +14,7 @@ Below is how the project was approached:
 >   - convert_TFRecord.py
 >   - load_shuffle.py
 >   - create_dataset.py
+
 <br>
 ### - **Model creation training and testing**
   > This includes creation_training.py
