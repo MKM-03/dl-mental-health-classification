@@ -1,7 +1,8 @@
 # 🧠 DL Mental Health Classification
 
 ## A beginner-friendly deep learning project focused on **mental health classification**.
-Whether you're just getting started with AI or looking to understand how deep learning can be applied to real-world problems, this project will help you understand how to prepare data, preprocess data, create and train a DL model.:
+Whether you're just getting started with AI or looking to understand how deep learning can be applied to real-world problems, this project will help you understand how to prepare data, preprocess data, create and train a DL model
+Below is how the project was approached:
 
 ### - **Data preparation**
   > This includes the following files in that order:
