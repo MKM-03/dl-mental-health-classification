@@ -15,16 +15,15 @@ Below is how the project was approached:
 >   - load_shuffle.py
 >   - create_dataset.py
 
-<br>
 ### - **Model creation training and testing**
   > This includes creation_training.py
-<br>
+
 ### - **Model evaluation**
   > This includes model_evaluation.py
-<br>
+
 ### - **Demostration**
   > The purpose of this is to show a simple way to use the model created for classifiying the mental disorders:
 >  - main_test.py
 >  - application.py
-<br>
+
 ### Screenshots
