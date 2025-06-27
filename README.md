@@ -24,8 +24,7 @@ Below is how the project was approached:
 ### - **Demostration**
   > The purpose of this is to show a simple way to use the model created for classifiying the mental disorders:
 >  - main_test.py
->  - application.py
-
+>  - application.py<br>
 # IMPORTANT NOTES!
   This project uses tensorflow keras framework. Please use requirements.txt to install the necessary libararies for the project to work as intended, the versions must be the same as the ones in the text file.<br>
   Also do note that to use the full dataset, same as i did, you will need an Nvidia gpu of 8gb VRAM as minimum, if you dont have a gpu with that much you wont able to fit the entire dataset into your gpu to proccess
