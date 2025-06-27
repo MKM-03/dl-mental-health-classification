@@ -32,5 +32,5 @@ Below is how the project was approached:
   my device's spec:
   - GPU: RTX 3050 8GB VRAM
   - CPU: R5 5600 6 cores/12 threads
-  - 16gb DDR4 RAM 3600mhz
-<br> One last important thing to note, you will need to go to https://www.tensorflow.org/install/source_windows#gpu and install the version of CUDA and CUDnn that is compatible with the tensorflow version in this project (i used TF 2.9 or 2.10)
+  - 16gb DDR4 RAM 3600mhz<br>
+One last important thing to note, you will need to go to https://www.tensorflow.org/install/source_windows#gpu and install the version of CUDA and CUDnn that is compatible with the tensorflow version in this project (i used TF 2.9 or 2.10)
