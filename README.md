@@ -26,4 +26,12 @@ Below is how the project was approached:
 >  - main_test.py
 >  - application.py
 
-# Screenshots
+# IMPORTANT NOTES!
+  This project uses tensorflow keras framework. Please use requirements.txt to install the necessary libararies for the project to work as intended, the versions must be the same as the ones in the text file.<br>
+  Also do note that to use the full dataset, same as i did, you will need an Nvidia gpu of 8gb VRAM as minimum, if you dont have a gpu with that much you wont able to fit the entire dataset into your gpu to proccess
+  However you can always undersample the dataset.<br>
+  my device's spec:
+  - GPU: RTX 3050 8GB VRAM
+  - CPU: R5 5600 6 cores/12 threads
+  - 16gb DDR4 RAM 3600mhz
+<br> One last important thing to note, you will need to go to https://www.tensorflow.org/install/source_windows#gpu and install the version of CUDA and CUDnn that is compatible with the tensorflow version in this project (i used TF 2.9 or 2.10)
