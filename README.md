@@ -71,13 +71,13 @@ Below is how the project was approached:
 ### - **Model evaluation**
   > This includes model_evaluation.py
 
-![CNN-LSTM_results_old](images/CNN-LSTM_results_old-1766004001583-12.png)
+![CNN-LSTM_results_old](images/CNN-LSTM_results_old.png)
 
-![CNN-LSTM_revised_results](/home/mk/Downloads/images/CNN-LSTM_revised_results-1766003983552-10.png)
+![CNN-LSTM_revised_results](/home/mk/Downloads/images/CNN-LSTM_revised_results.png)
 
 ### The above two images are the last two tries to train and enhance the DNN of the CNN & Bi-LSTM model. The first image is the one before doing further tuning. Typically you want the two lines of training and validation metrics to be as close as possible, if they start close then start to have a gap that increases over the epochs, that is considering overfitting.
 
-![CNN_results](images/CNN_results-1766004025612-14.png)
+![CNN_results](images/CNN_results.png)
 
 ### The image above is the CNN model which i ditched as i knew CNNs alone would not be enough.
 
