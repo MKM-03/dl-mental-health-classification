@@ -9,7 +9,6 @@ Below is how the project was approached:
 
 ### - **Exploratory Data Analysis**
   > This would include a jupyter notebook file that i made quickly to explain a couple of things for those who are interested:
-> - 
 
 ### - **Data Preprocessing**
   > This includes the following files in that order:
