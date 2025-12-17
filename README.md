@@ -73,13 +73,15 @@ Below is how the project was approached:
 
 ![CNN-LSTM_results_old](images/CNN-LSTM_results_old.png)
 
-![CNN-LSTM_revised_results](/home/mk/Downloads/images/CNN-LSTM_revised_results.png)
+![CNN-LSTM_revised_results](images/CNN-LSTM_revised_results.png)
 
 ### The above two images are the last two tries to train and enhance the DNN of the CNN & Bi-LSTM model. The first image is the one before doing further tuning. Typically you want the two lines of training and validation metrics to be as close as possible, if they start close then start to have a gap that increases over the epochs, that is considering overfitting.
 
 ![CNN_results](images/CNN_results.png)
 
 ### The image above is the CNN model which i ditched as i knew CNNs alone would not be enough.
+### Lastly an image of the model performing on the evaluation data subset.
+![evaluation results](CNN-LSTM_Evaluation.png)
 
 ### - **Demonstration**
   > The purpose of this is to show a simple way to use the model created for classifiying the mental disorders:
