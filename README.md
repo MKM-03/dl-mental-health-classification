@@ -81,7 +81,7 @@ Below is how the project was approached:
 
 ### The image above is the CNN model which i ditched as i knew CNNs alone would not be enough.
 ### Lastly an image of the model performing on the evaluation data subset.
-![evaluation results](CNN-LSTM_Evaluation.png)
+![evaluation results](images/CNN-LSTM_Evaluation.png)
 
 ### - **Demonstration**
   > The purpose of this is to show a simple way to use the model created for classifiying the mental disorders:
